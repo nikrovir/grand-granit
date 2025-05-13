@@ -17,6 +17,7 @@
         "spatie/laravel-data": "^4.15",
         "spatie/laravel-medialibrary": "^11.12",
         "spatie/laravel-permission": "^6.17",
+        "spatie/laravel-sluggable": "^3.7",
         "symfony/filesystem": "^7.2"
     },
     "require-dev": {
